@@ -1,0 +1,46 @@
+body {
+	line-height: 1;
+	color: black;
+	background: white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+.errorMsg{
+	color:red;
+}
+#leftDiv {
+  width:50%; 
+height:500px; 
+left: 10%;
+top: 10%;
+position: absolute;
+border:1px solid white; 
+background:url(../../images/61.png);
+background-position:50% 50% !important;
+background-repeat:no-repeat;
+}
+#rightDiv {
+ background-color: #FFCC00;
+ height: 500px;
+ width: 30%;
+ position: absolute;
+ top: 10%;
+ left: 60%;
+}
+#reBug {
+ height: 50px;
+ width: 106px;
+ position: absolute;
+ top: 10%;
+ left: 35%;	
+ 
+
+}
+#nextBug {
+ height: 200px;
+ width: 200px;
+ position: absolute;
+ top: 10%;
+ left: 10%;	
+
+}
